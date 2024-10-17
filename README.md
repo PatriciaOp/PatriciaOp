@@ -21,5 +21,4 @@ Atualmente estou aprendendo e criando projetos com:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaOp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-PatriciaOp.github/workflows/snake.yml
 
