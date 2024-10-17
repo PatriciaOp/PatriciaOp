@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Sejam bem vindos ao meu Github!
 
 Sou Patricia, formada em Analise e Desenvolvimento de Sistemas e apaixonada pelo universo da tecnologia.
 <br>
