@@ -33,6 +33,6 @@ Atualmente estou aprendendo e criando projetos com:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatriciaOp /PatriciaOp /output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PatriciaOp /PatriciaOp /output/pacman-contribution-graph.svg">
 </picture>
-
+###
 
 ###
