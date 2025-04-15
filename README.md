@@ -26,7 +26,7 @@ Atualmente estou aprendendo e criando projetos com:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaOp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<img src="https://raw.githubusercontent.com/PatriciaOp /PatriciaOp /output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/PatriciaOp /PatriciaOp /output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatriciaOp /PatriciaOp /output/pacman-contribution-graph-dark.svg">
